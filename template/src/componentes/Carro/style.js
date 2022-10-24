@@ -9,9 +9,9 @@ export const CarrosContainer = styled.div`
     background: orange;
 `;
 
-// export const CarrosLista = styled.li`
-//     list-style-type: none;
-// `;
+export const CarrosLista = styled.li`
+    list-style-type: none;
+`;
 
 export const ListaDeCarros = styled.ul`
     display: grid;
